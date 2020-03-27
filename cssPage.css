@@ -1,0 +1,26 @@
+body {
+    background: beige;
+}
+
+.grand-titre:hover {
+    color: aqua;
+}
+
+.moyen-titre {
+    color: brown;
+}
+
+#ul {
+    color: blueviolet;
+}
+
+li:first-child:hover{
+    color: gold;
+}
+
+a:visited {
+    color: red;
+}
+a:link {
+    color:blue;
+}
