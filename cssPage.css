@@ -55,7 +55,8 @@ body {
 }
 
 .div1 {
- font-size: 120px 105px;
+ height: 120px;
+ width: 50px;
 
  background: linear-gradient(to right, red,blue);
  background: linear-gradient(to top, red,blue);

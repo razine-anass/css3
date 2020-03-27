@@ -1,0 +1,44 @@
+p{
+    text-transform: capitalize;
+    text-align: justify;
+    color: cornflowerblue;
+    font-size: 20px;
+}
+
+h1 {
+    color: burlywood;
+    text-align: center;
+}
+body{
+    background-color: black ;
+}
+.phrase {
+  font-style: oblique;
+  font-size: 40px;
+  text-decoration: underline;
+}
+
+.p2{
+    font-family:  sans-serif;
+}
+.div3{
+    border: 2px solid black;
+    background-color: blanchedalmond;
+    height: 100px;
+    width: 100px;
+    float: right;
+}
+.div4{
+    border: 2px solid black;
+    height: 100px;
+    width: 100px;
+    background-color: crimson;
+}
+
+span {
+    color: darkcyan;
+}
+i{
+    color: darkorange;
+    display: block;
+}
